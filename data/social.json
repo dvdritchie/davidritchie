@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Youtube",
+      "icon": "Youtube",
+      "url": "https://www.youtube.com/channel/UC_U1-et0ihnOCgifM_d1_SQ?view_as=subscriber"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
