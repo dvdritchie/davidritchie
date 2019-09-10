@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Save The Water Spleish Campaign
+layout: blog
 menu:
   main:
-    name: Blog
     weight: 2
-layout: blog
+
 ---
